@@ -26,13 +26,10 @@
 1. 執行下載的 `.exe` 安裝檔。
 2. 依安裝精靈（Installer）步驟完成安裝，並且確認安裝的adress；安裝選項可將 Julia 加入系統 PATH（建議勾選）。
  ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(4).png)
+ ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(2).png)
+ ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(1).png)
 
-
-```powershell
-julia --version
-```
-
-以確認安裝成功。
+打開Julia以確認安裝成功。
 
 ---
 
