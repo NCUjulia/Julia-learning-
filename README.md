@@ -84,6 +84,15 @@ julia --version
 ## 3)使用Jupyter編譯器
 1. 打開Julia並輸入:
 
-'''Julia
-using Pkg
+```Julia
+julia> using Pkg
+julia> Pkg.add("IJulia")
+```
+2. 下載完IJulia後輸入:
+
+```Julia
+julia> using IJulia
+julia> notebook()
+```
+
 
