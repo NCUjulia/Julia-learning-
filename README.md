@@ -93,6 +93,10 @@ julia> Pkg.add("IJulia")
 ```Julia
 julia> using IJulia
 julia> notebook()
+
 ```
+3.透過conda讓Jupyter新增到新路徑
 
-
+```Julia
+install Jupyter via Conda, y/n? [y]: y               #請填y讓Jupyter新增到新路徑
+```
