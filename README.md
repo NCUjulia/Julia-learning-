@@ -82,6 +82,8 @@ julia --version
 ```
 
 ## 3)使用Jupyter編譯器
-1. 打開Julia並輸入
+1. 打開Julia並輸入:
 
-'''
+'''Julia
+using Pkg
+
