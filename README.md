@@ -29,7 +29,8 @@
  ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(2).png)
  ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(1).png)
 
-打開Julia以確認安裝成功。
+3.打開Julia以確認安裝成功。
+ ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(5).png)
 
 ---
 
