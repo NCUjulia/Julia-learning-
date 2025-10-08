@@ -39,8 +39,8 @@
 1. 檢查macos的硬體設備，查看中央處理器(Intel/M series)。
  ![image]()  
 2. 執行下載的 `.dmg` 或 `.pkg`，跟隨指示安裝。
-3. 若使用 tarball，可解壓到 `/Applications` 或其他目錄，並建立符號連結（symlink）到 `/usr/local/bin`，以便從終端呼叫 `julia`。
-4. 安裝後於 終端(Terminal) 執行：
+3. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡。
+4. 安裝後於應用程式內打開或在終端(Terminal) 執行：
 
 ```bash
 julia --version
