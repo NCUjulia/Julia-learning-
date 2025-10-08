@@ -110,7 +110,9 @@ Pkg.status()
 
 Julia 支援專案環境，讓每個專案都有獨立的套件版本。
 步驟如下：
+```Julia
 ]
 activate MyProject
 add CSV DataFrames
+```
 status
