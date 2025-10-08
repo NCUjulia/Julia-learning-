@@ -63,3 +63,20 @@ julia> notebook()
 ```Julia
 install Jupyter via Conda, y/n? [y]: y               #請填y讓Jupyter新增到新路徑
 ```
+
+## #4 Julia 套件管理（Package Management）
+
+### 為什麼要學套件管理？
+Julia 本身只提供最基本的功能。  
+若想畫圖、處理資料、做機器學習或數學模擬，就需要安裝外部「套件（Packages）」。
+
+Julia 內建的 **`Pkg` 模組** 負責：
+- 安裝套件  
+- 更新套件  
+- 移除套件  
+- 管理不同專案的環境與版本  
+
+---
+
+### 進入 Pkg 模式
+在 Julia 互動介面（REPL）中，按下 `]` 鍵即可進入 **Pkg 模式**：  
