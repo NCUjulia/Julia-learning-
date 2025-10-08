@@ -38,7 +38,7 @@ julia> my_favourite_number = 73
 julia> my_favourite_pie = 3.1415
 ```
 
-我們可以對數字和變數進行數學運算，並將結果指定給新的變數：
+我們可以對數字進行數學運算，並將結果指定給新的變數：
 
 ```Julia
 julia> a = 2
@@ -92,8 +92,6 @@ julia> convert(Float64, 2)
 2.0
 
 julia> a = 2
-2
-
 julia> b = convert(Float64, a)
 2.0
 ```
