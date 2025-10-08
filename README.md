@@ -47,10 +47,12 @@
    (選擇符合自身型號的處理器檔案來下載，以下載較簡單的dmg檔為主)
    
 4. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡。
+   ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20application.png)
+   (觀察Julia檔案的種類是否出現應用程式)
 5. 安裝後於應用程式內打開或在終端(Terminal) 執行：
 
 ```bash
-julia --version
+julia --version         
 ```
 
 ## 3)使用Jupyter編譯器
