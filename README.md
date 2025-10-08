@@ -105,7 +105,7 @@ Pkg.add("DataFrames")
 Pkg.add("Plots")
 
 Pkg.status()
-
+```
 ### 建立專案環境（Environment）
 
 Julia 支援專案環境，讓每個專案都有獨立的套件版本。
