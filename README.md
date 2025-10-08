@@ -12,7 +12,7 @@
 1. [下載 Julia](#1-下載-julia)
 2. [安裝說明（Windows / macOS ）](#2-安裝說明)
 3. [在 Jupyter 中使用 Julia（安裝 IJulia、啟動 Notebook: Jupyter）](#3使用jupyter編譯器)
-4. [認識 Julia ](#4-julia-套件管理package-management)
+4. [認識 Julia 管理套件 ](#4-julia-套件管理package-management)
 
 ## 1) 下載 Julia
 1. 前往 Julia 官方網站下載頁( https://julialang.org/downloads/ )。
