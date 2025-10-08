@@ -64,7 +64,7 @@ julia> notebook()
 install Jupyter via Conda, y/n? [y]: y               #請填y讓Jupyter新增到新路徑
 ```
 
-## #4 Julia 套件管理（Package Management）
+## 4） Julia 套件管理（Package Management）
 
 ### 為什麼要學套件管理？
 Julia 本身只提供最基本的功能。  
