@@ -37,10 +37,17 @@
 
 ### macOS
 1. 檢查macos的硬體設備，查看中央處理器(Intel/M series)。
- ![image]()  
-2. 執行下載的 `.dmg` 或 `.pkg`，跟隨指示安裝。
-3. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡。
-4. 安裝後於應用程式內打開或在終端(Terminal) 執行：
+ ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20about.png)
+   (滑鼠移動到銀幕左上角apple圖標，然後點擊關於這台mac。)
+  ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20about.png)
+   (檢查處理器的型號)
+  
+3. 執行下載的 `.dmg` 或 `.pkg`，跟隨指示安裝。
+   ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/cpu%20type.png)
+   (選擇符合自身型號的處理器檔案來下載，以下載較簡單的dmg檔為主)
+   
+4. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡。
+5. 安裝後於應用程式內打開或在終端(Terminal) 執行：
 
 ```bash
 julia --version
