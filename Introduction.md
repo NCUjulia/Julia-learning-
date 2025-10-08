@@ -4,7 +4,7 @@
 
 ## 目錄
 
-### 變數與字串
+### 變數
 &nbsp;&nbsp;&nbsp; 1.1 Hello world
 
 &nbsp;&nbsp;&nbsp; 1.2 數字與運算
