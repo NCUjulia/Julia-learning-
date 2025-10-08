@@ -12,7 +12,8 @@
 1. 下載 Julia
 2. 安裝說明（Windows / macOS ）
 3. 在 Jupyter 中使用 Julia（安裝 IJulia、啟動 Notebook: Jupyter）
-4.認識 Julia 
+4. 認識 Julia 
+
 ## 1) 下載 Julia
 1. 前往 Julia 官方網站下載頁( https://julialang.org/downloads/ )。
 2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg）。
