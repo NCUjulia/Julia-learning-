@@ -14,20 +14,24 @@
 
 1.2 [安裝說明（Windows / macOS ）](#12-安裝說明)
 
-1.3 [在 Jupyter 中使用 Julia（安裝 IJulia、啟動 Notebook: Jupyter）](#13使用jupyter編譯器)
+1.3 [在 Jupyter 中使用 Julia（安裝 IJulia、啟動 Notebook: Jupyter）](#13-下載jupyter編譯器)
 
 1.4 [認識 Julia 管理套件 ](#14-julia-套件管理package-management)
 
 ### Jupyter
 
-## 1.1) 下載 Julia
+
+---
+# 介紹Julia
+
+## 1.1 下載 Julia
 1. 前往 Julia 官方網站下載頁( https://julialang.org/downloads/ )。
 2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg）。
    ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(3).png)
 
 **提示**：若偏好使用套件管理器（homebrew、apt、dnf 等），也可透過套件管理器安裝（不同發行版命令不同）。
 
-## 1.2) 安裝說明
+## 1.2 安裝說明
 
 ### Windows
 1. 執行下載的 `.exe` 安裝檔。
@@ -61,7 +65,7 @@
 julia --version         
 ```
 
-## 1.3)使用Jupyter編譯器
+## 1.3 下載Jupyter編譯器
 1. 打開Julia並輸入:
 
 ```Julia
@@ -81,7 +85,7 @@ julia> notebook()
 install Jupyter via Conda, y/n? [y]: y               #請填y讓Jupyter新增到新路徑
 ```
 
-## 1.4） Julia 套件管理（Package Management）
+## 1.4 Julia 套件管理（Package Management）
 
 ### 為什麼要學套件管理？
 Julia 本身只提供最基本的功能。  
