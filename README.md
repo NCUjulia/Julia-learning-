@@ -80,3 +80,37 @@ Julia 內建的 **`Pkg` 模組** 負責：
 
 ### 進入 Pkg 模式
 在 Julia 互動介面（REPL）中，按下 `]` 鍵即可進入 **Pkg 模式**：  
+在這裡輸入以下指令操作套件：
+
+| 指令 | 功能 | 範例 |
+|------|------|------|
+| `add 套件名` | 安裝套件 | `add Plots` |
+| `add 套件名@版本` | 安裝指定版本 | `add DataFrames@1.6.1` |
+| `rm 套件名` | 移除套件 | `rm CSV` |
+| `update` | 更新所有套件 | `update` |
+| `status` | 查看目前套件狀態 | `status` |
+| `instantiate` | 根據環境設定重新安裝套件 | `instantiate` |
+| `activate 路徑` | 啟用或建立新環境 | `activate .` |
+
+離開 Pkg 模式只要按 **Backspace** 或 `Ctrl + C`。
+
+---
+
+### 在程式中使用 Pkg
+除了 REPL 模式，也能在程式中直接使用 `Pkg`：
+```julia
+using Pkg
+
+Pkg.add("DataFrames")
+Pkg.add("Plots")
+
+Pkg.status()
+
+建立專案環境（Environment）
+
+Julia 支援專案環境，讓每個專案都有獨立的套件版本。
+步驟如下：
+]
+activate MyProject
+add CSV DataFrames
+status
