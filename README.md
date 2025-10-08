@@ -10,13 +10,13 @@
 
 ## 目錄
 ### 介紹Julia
-1.1 [下載 Julia](#11-下載-julia)
+&nbsp;&nbsp;&nbsp; 1.1 [下載 Julia](#11-下載-julia)
 
-1.2 [安裝說明（Windows / macOS ）](#12-安裝說明)
+&nbsp;&nbsp;&nbsp;   1.2 [安裝說明（Windows / macOS ）](#12-安裝說明)
 
-1.3 [在 Jupyter 中使用 Julia（安裝 IJulia、啟動 Notebook: Jupyter）](#13-下載jupyter編譯器)
+&nbsp;&nbsp;&nbsp;   1.3 [在 Jupyter 中使用 Julia（安裝 IJulia、啟動 Notebook: Jupyter）](#13-下載jupyter編譯器)
 
-1.4 [認識 Julia 管理套件 ](#14-julia-套件管理package-management)
+&nbsp;&nbsp;&nbsp;   1.4 [認識 Julia 管理套件 ](#14-julia-套件管理package-management)
 
 ### Jupyter
 
@@ -29,7 +29,7 @@
 2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg）。
    ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(3).png)
 
-**提示**：若偏好使用套件管理器（homebrew、apt、dnf 等），也可透過套件管理器安裝（不同發行版命令不同）。
+
 
 ## 1.2 安裝說明
 
@@ -40,8 +40,10 @@
  ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(2).png)
  ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(1).png)
 
-3.打開Julia以確認安裝成功。
- ![image](https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(5).png)
+&nbsp;&nbsp; 3.打開Julia以確認安裝成功。
+<p align="center">    
+   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(5).png" width="750">
+</p> 
 
 ---
 
@@ -137,3 +139,6 @@ activate MyProject
 add CSV DataFrames
 status
 ```
+
+---
+# Jupyter
