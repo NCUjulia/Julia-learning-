@@ -18,7 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;   1.4 [認識 Julia 管理套件 ](#14-julia-套件管理package-management)
 
-&nbsp;&nbsp;&nbsp;    1.5 [常見的數學相關 Julia 套件]
+&nbsp;&nbsp;&nbsp;   1.5 [常用的數學相關 Julia 套件](#15-常用的數學相關-Julia-套件）
+
 ### Jupyter
 
 
@@ -169,7 +170,7 @@ Julia 會自動在此目錄建立：
 如此一來，不管在哪台電腦執行，都能用 instantiate 一鍵重建環境。
 
 ---
-### 常用的數學相關 Julia 套件
+## 1.5 常用的數學相關 Julia 套件
 
 以下是幾個常用的數學相關 Julia 套件與基本範例:
 
