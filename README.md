@@ -218,3 +218,6 @@ julia> using IJulia
 julia> notebook()
 ```
 2. 介面介紹
+<p align="center">
+  <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/Jupyter%20file%20introduction.png" width="700">
+</p>
