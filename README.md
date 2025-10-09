@@ -161,6 +161,9 @@ activate MyProject
 add CSV DataFrames
 status
 ```
-
+Julia 會自動在此目錄建立：
+	•	Project.toml → 記錄專案需要哪些套件
+	•	Manifest.toml → 記錄套件和其相依版本
+如此一來，不管在哪台電腦執行，都能用 instantiate 一鍵重建環境。
 ---
 # Jupyter
