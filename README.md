@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;   1.4 [認識 Julia 管理套件 ](#14-julia-套件管理package-management)
 
-&nbsp;&nbsp;&nbsp;   1.5 [常用的數學相關 Julia 套件 ](#15-常用的數學相關-Julia-套件）
+&nbsp;&nbsp;&nbsp;   1.5 [常用的數學相關 Julia 套件](#15-常用的數學相關-julia-套件)
 
 ### Jupyter
 
