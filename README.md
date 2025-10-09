@@ -53,15 +53,15 @@
 ---
 
 ### macOS
-1. 檢查macos的硬體設備，查看中央處理器的型號(Intel/M series)，如圖。<br>
+1. 檢查macos的硬體設備，查看中央處理器的型號(Intel/M series)，如附圖。<br>
 https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20about.png <br>
 https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20cpu.png
   
 
-2. 執行下載的 `.dmg` 或 `.pkg`，跟隨指示安裝，選擇符合自身型號的處理器檔案來下載，以下載較簡單的.dmg檔為主。 <br>
+2. 執行下載的 `.dmg` 或 `.pkg`，跟隨指示安裝，選擇符合自身型號的處理器檔案來下載，以下載較簡單的.dmg檔為主，如附圖。 <br>
 https://github.com/NCUjulia/Julia-learning-/blob/main/cpu%20type.png
    
-3. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡，並觀察Julia檔案的種類是否出現應用程式。 <br>
+3. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡，並觀察Julia檔案的種類是否出現應用程式，如附圖。 <br>
 https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20application.png 
    
 4. 安裝後於應用程式內打開或在終端(Terminal) 執行：
@@ -84,7 +84,7 @@ julia> using IJulia
 julia> notebook()
 
 ```
-3.透過conda讓Jupyter新增到新路徑
+3. 透過conda讓Jupyter新增到新路徑
 
 ```Julia
 install Jupyter via Conda, y/n? [y]: y               #請填y讓Jupyter新增到新路徑
@@ -217,3 +217,4 @@ julia> using IJulia
 
 julia> notebook()
 ```
+2. 介面介紹
