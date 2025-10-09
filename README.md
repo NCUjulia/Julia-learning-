@@ -30,11 +30,10 @@
 
 ## 1.1 下載 Julia
 1. 前往 Julia 官方網站下載頁( https://julialang.org/downloads/ )。
-2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg）。
+2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg）。<br>
+ https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(3).png
   
-<p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(3).png" width="750">
-</p> 
+
 
 
 ## 1.2 安裝說明
@@ -233,3 +232,10 @@ println("平均值: ", mean([1,2,3,4,5]))
 | YouTube 教學 | Julia入門教學 |  [Julia 入門教學影片](https://youtube.com/playlist?list=PLhQ2JMBcfAsiu2BjeDuj0OXxD1Or_FjID) |
 ---
 # Jupyter
+
+1. 透過終端機使用Julia打開Jupyter
+```Julia
+julia> using IJulia
+
+julia> notebook()
+```
