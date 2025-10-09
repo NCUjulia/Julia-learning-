@@ -226,10 +226,10 @@ println("矩陣乘法: ", A * v)
 println("平均值: ", mean([1,2,3,4,5]))
 ```
 ## 1.6 Julia 教程
-
+### 線上資源
 | 類型 | 名稱 | 連結 |
 |------|------|------|
 | 官方文件 | Julia 官方說明文件 | [https://docs.julialang.org](https://docs.julialang.org) |
-| YouTube 教學 | [Julia 入門教學影片](https://youtube.com/playlist?list=PLhQ2JMBcfAsiu2BjeDuj0OXxD1Or_FjID) |
+| YouTube 教學 | Julia入門教學 |  [Julia 入門教學影片](https://youtube.com/playlist?list=PLhQ2JMBcfAsiu2BjeDuj0OXxD1Or_FjID) |
 ---
 # Jupyter
