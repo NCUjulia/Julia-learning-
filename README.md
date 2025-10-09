@@ -221,3 +221,6 @@ julia> notebook()
 <p align="center">
   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/Jupyter%20file%20introduction.png" width="700">
 </p>
+<p align="center">
+  <img src="https://github.com/NCUjulia/Julia-learning-/blob/jupyter-photo/1%20(1).png" width="700">
+</p>
