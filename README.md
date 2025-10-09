@@ -164,3 +164,12 @@ status
 
 ---
 # Jupyter
+
+## 2.1 Jupyter 介面與操作
+
+1. 由Julia在終端機內打開Jupyter
+```Julia
+julia> using IJulia
+
+julia> notebook()
+```
