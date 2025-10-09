@@ -30,7 +30,7 @@
 
 ## 1.1 下載 Julia
 1. 前往 Julia 官方網站下載頁( https://julialang.org/downloads/ )。
-2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg）。<br>
+2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg），如附圖。<br>
  https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(3).png
   
 
@@ -40,52 +40,30 @@
 
 ### Windows
 1. 執行下載的 `.exe` 安裝檔。
-2. 依安裝精靈（Installer）步驟完成安裝，並且確認安裝的adress；安裝選項可將 Julia 加入系統 PATH（建議勾選）。
-<p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(4).png" width="750">
-</p> 
- <p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(2).png" width="750">
-</p>
-<p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(1).png" width="750">
-</p> 
+2. 依安裝精靈（Installer）步驟完成安裝，並且確認安裝的adress；安裝選項可將 Julia 加入系統 PATH（建議勾選），如附圖。<br>
+   https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(4).png  <br>
+   https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(2).png  <br>
+   https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(1).png
 
-&nbsp;&nbsp; 3.打開Julia以確認安裝成功。
-<p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(5).png" width="750">
-</p> 
+&nbsp;&nbsp; 3.打開Julia以確認安裝成功，如附圖。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(5).png
+
+ 
 
 ---
 
 ### macOS
-1. 檢查macos的硬體設備，查看中央處理器(Intel/M series)。
-<p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20about.png" width="750">
-</p> 
-<p align="center">(滑鼠移動到銀幕左上角apple圖標，然後點擊關於這台mac)</p>
-
- <p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20cpu.png" width="750">
-</p> 
-<p align="center">(檢查處理器的型號)</p>
-
+1. 檢查macos的硬體設備，查看中央處理器的型號(Intel/M series)，如圖。<br>
+https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20about.png <br>
+https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20cpu.png
   
 
-2. 執行下載的 `.dmg` 或 `.pkg`，跟隨指示安裝。
-   <p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/cpu%20type.png" width="750">
-</p> 
-<p align="center">(選擇符合自身型號的處理器檔案來下載，以下載較簡單的.dmg檔為主)</p> 
+2. 執行下載的 `.dmg` 或 `.pkg`，跟隨指示安裝，選擇符合自身型號的處理器檔案來下載，以下載較簡單的.dmg檔為主。 <br>
+https://github.com/NCUjulia/Julia-learning-/blob/main/cpu%20type.png
    
-3. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡。
-   <p align="center">    
-   <img src="https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20application.png" width="750">
-</p> 
-<p align="center">(觀察Julia檔案的種類是否出現應用程式)</p> 
+3. 打開Julia圖標並將Julia移動到應用程式(Application)的檔案裡，並觀察Julia檔案的種類是否出現應用程式。 <br>
+https://github.com/NCUjulia/Julia-learning-/blob/main/mac%20application.png 
    
-
-
 4. 安裝後於應用程式內打開或在終端(Terminal) 執行：
 
 ```bash
