@@ -30,8 +30,7 @@
 
 ## 1.1 下載 Julia
 1. 前往 Julia 官方網站下載頁( https://julialang.org/downloads/ )。
-2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg），如附圖。<br>
- https://github.com/NCUjulia/Julia-learning-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D(3).png
+2. 選擇對應作業系統的安裝檔（例如 Windows installer、macOS pkg）。
   
 
 
@@ -42,7 +41,7 @@
 1. 執行下載的 `.exe` 安裝檔。
 2. 依安裝精靈（Installer）步驟完成安裝，並且確認安裝的adress；安裝選項可將 Julia 加入系統 PATH（建議勾選）。
 
-&nbsp;&nbsp; 3.打開Julia以確認安裝成功，如附圖。
+&nbsp;&nbsp; 3.打開Julia以確認安裝成功。
 
  
 
