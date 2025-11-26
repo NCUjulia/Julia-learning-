@@ -1,7 +1,3 @@
----
-layout: default
-title: Julia Tutorial
----
 
 # Julia Tutorial (SageMath-style)
 
