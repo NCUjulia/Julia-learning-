@@ -222,3 +222,10 @@ julia> notebook()
   <img src="https://github.com/NCUjulia/Julia-learning-/blob/jupyter-photo/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-10-28%20125528.png" width="700">
 </p>
 <p align="center">這裡可以使用Julia進行編程</p>
+
+---
+# Julia Tutorial 
+
+Welcome! This is the homepage. See the full tutorial here:
+
+[➡ Julia Tutorial](julia_tutorial.md)
