@@ -37,7 +37,7 @@
 
 ## 1.2 安裝說明
 
-### Windows(影片:https://github.com/NCUjulia/Julia-learning-/blob/introduction/windows.mp4)
+### Windows(影片:https://youtu.be/VNP7Q-n7Ap8)
 1. 執行下載的 `.exe` 安裝檔。
 2. 依安裝精靈（Installer）步驟完成安裝，並且確認安裝的adress；安裝選項可將 Julia 加入系統 PATH（建議勾選）。
 
