@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;    1.6 [Julia 教程](#16-julia-教程)
 
-&nbsp;&nbsp;&nbsp;    1.7[ Matlab vs. Julia ](#18-Matlab和Julia間的語言差異)
+&nbsp;&nbsp;&nbsp;    1.7[ Matlab vs. Julia ](#17-Matlab-和-Julia-間的語言差異)
 
 ### Jupyter
 
@@ -201,45 +201,9 @@ println("平均值: ", mean([1,2,3,4,5]))
 | 官方文件 | Julia 官方說明文件 | [https://docs.julialang.org](https://docs.julialang.org) |
 | YouTube 教學 | Julia入門教學 |  [Julia 入門教學影片](https://youtube.com/playlist?list=PLhQ2JMBcfAsiu2BjeDuj0OXxD1Or_FjID) |
 
-&nbsp;&nbsp;&nbsp; 1.7 [ Matlab vs. Julia ](#18-Matlab和Julia間的語言差異)
+## 1.7 Matlab 和 Julia 間的語言差異
 
-## 1.7 Matlab和Julia間的語言差異
-
-<h2>對照表</h2>
-
-<table id="csvTable" border="1" cellpadding="6" style="border-collapse: collapse;"></table>
-
-<script>
-fetch("對照表.csv")
-  .then(response => response.text())
-  .then(csv => {
-    const lines = csv.trim().split("\n").map(line => line.split(","));
-    let html = "";
-
-    // 第一列表頭
-    html += "<thead><tr>";
-    lines[0].forEach(h => {
-      html += `<th>${h}</th>`;
-    });
-    html += "</tr></thead>";
-
-    // 其他列內容
-    html += "<tbody>";
-    for (let i = 1; i < lines.length; i++) {
-      html += "<tr>";
-      lines[i].forEach(cell => {
-        html += `<td>${cell}</td>`;
-      });
-      html += "</tr>";
-    }
-    html += "</tbody>";
-
-    document.getElementById("csvTable").innerHTML = html;
-  })
-  .catch(err => {
-    document.getElementById("csvTable").innerHTML = "CSV 無法讀取，請確認路徑是否正確。";
-  });
-</script>
+➡ [對照表（點我查看）](對照表.csv)
 ---
 # Jupyter
 
