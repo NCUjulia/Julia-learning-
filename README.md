@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;    1.6 [Julia 教程](#16-julia-教程)
 
+&nbsp;&nbsp;&nbsp;    1.7[ Matlab vs. Julia ](#18-)
+
 ### Jupyter
 
 ### Julia Tutorial
