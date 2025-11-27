@@ -201,6 +201,8 @@ println("平均值: ", mean([1,2,3,4,5]))
 | 官方文件 | Julia 官方說明文件 | [https://docs.julialang.org](https://docs.julialang.org) |
 | YouTube 教學 | Julia入門教學 |  [Julia 入門教學影片](https://youtube.com/playlist?list=PLhQ2JMBcfAsiu2BjeDuj0OXxD1Or_FjID) |
 
+&nbsp;&nbsp;&nbsp; 1.7 [ Matlab vs. Julia ](#18-Matlab和Julia間的語言差異)
+
 ## 1.7 Matlab和Julia間的語言差異
 
 <h2>對照表</h2>
@@ -214,14 +216,14 @@ fetch("對照表.csv")
     const lines = csv.trim().split("\n").map(line => line.split(","));
     let html = "";
 
-    // 第一列：表頭
+    // 第一列表頭
     html += "<thead><tr>";
     lines[0].forEach(h => {
       html += `<th>${h}</th>`;
     });
     html += "</tr></thead>";
 
-    // 其他列：內容
+    // 其他列內容
     html += "<tbody>";
     for (let i = 1; i < lines.length; i++) {
       html += "<tr>";
