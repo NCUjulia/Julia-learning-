@@ -1,0 +1,52 @@
+﻿項目,狀態,測試結果,附註,,
+Variables,已完成,相同,"1.沒有who跟format Command
+2.向量的 , 跟 ; 是同個效果",,連結:https://www.tutorialspoint.com/matlab
+Commands,已完成,其他,"1.MATLAB 有指令式語法（clear、clc、disp hello 不用括號） 
+",,註：沒有裝套件
+Data Types,已完成,不同,MATLAB 大部分變數是 double(預設)，其他型別少；Julia 的型別多、能自訂。,,"嘿!看看我找到什麼
+https://docs.julialang.org/en/v1/"
+Operators,已完成,不同,"1. (.')用不了，要直接打transpose  2. ~=要改!=  3.Bitwise Operations的邏輯不同  4.set語法不同  julia的Operators
+數字、矩陣、邏輯運算：https://docs.julialang.org/en/v1/manual/mathematical-operations
+集合運算：https://docs.julialang.org/en/v1/base/collections/#Base.Set
+",,
+Dates and Time,已完成,不同,,,
+Numbers,已完成,其他,1. Julia 會區分整數跟小數 2. 除法行為不同,,
+Random Numbers,已完成,其他,"也有rand函數，但語法稍有不同。
+https://docs.julialang.org/en/v1/stdlib/Random/",,
+Strings,進行中,,"1. ' 要改 ""  2.fprintf要改println",,
+Text Formatting,已完成,不同,"1.寫法不同   2. Julia 字串相加用 *，MATLAB 要用strcat( )
+",,
+Timetables,已完成,不同,沒有,,
+Colon Notation,已完成,其他,Julia的 ：還可以當成物件來存取、傳遞，甚至放入變數使用,,
+Data Import,已完成,不同,MATLAB 自帶很多讀檔工具，一行就能讀 CSV/Excel；Julia 要安裝套件。,,
+Data Output,已完成,不同,MATLAB 很多輸出功能為內建，Julia 要另外裝套件,,
+Normalize Data,已完成,不同,1.MATLAB 有 normalize( )，Julia 沒有   2.MATLAB 一行就能標準化，Julia 要自己寫或裝套件。,,
+Predefined Variables,已完成,其他,1. MATLAB 用 i 和 j 當虛數，Julia 用 im 。,,
+Decision Making,N/A,N/A, ,,
+if... end Statement,已完成,相同,,,
+if...else...end Statement,已完成,相同,範例的%d\n不是julia有的,,
+if...elseif...elseif...else...end,已完成,相同,同上,,
+The Nested if Statements,已完成,相同,同上,,
+The switch Statement,已完成,不同,julia要裝套件才能使用switch,,
+The Nested switch Statements,已完成,其他,同上，要裝套件,,
+Loops,N/A,N/A, ,,
+,尚未開始,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
